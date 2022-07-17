@@ -19,12 +19,12 @@ pip3 install wheel
 ## How to use
 
 ```python
-Import tbbScraper
+from tbbScraper.stats import Stats
 
 ```
 
 ```python
-StatsManager = tbbScraper.Stats()
+StatsManager = Stats()
 ```
 
 ```python
