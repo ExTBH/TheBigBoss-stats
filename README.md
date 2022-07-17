@@ -7,9 +7,14 @@
 - BeautifulSoup
 
 - Requests
-## Install
+## Installation
 ```bash
 pip3 install git+https://github.com/ExTBH/TheBigBoss-stats.git@main
+```
+#### If you get `error: invalid command 'bdist_wheel'`,
+#### run the below it should work, idk why just download.
+```bash
+pip3 install wheel
 ```
 ## How to use
 
